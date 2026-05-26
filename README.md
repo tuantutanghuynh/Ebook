@@ -4,9 +4,9 @@
 
 **A curated library of 40+ programming & language learning books — organized for developers at every level.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/tuantutanghuynh/dev-ebooks-collection?style=social)](https://github.com/tuantutanghuynh/dev-ebooks-collection/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/tuantutanghuynh/dev-ebooks-collection?style=social)](https://github.com/tuantutanghuynh/dev-ebooks-collection/network/members)
-[![Last Commit](https://img.shields.io/github/last-commit/tuantutanghuynh/dev-ebooks-collection)](https://github.com/tuantutanghuynh/dev-ebooks-collection/commits)
+[![GitHub Stars](https://img.shields.io/github/stars/tuantutanghuynh/Ebook?style=social)](https://github.com/tuantutanghuynh/Ebook/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/tuantutanghuynh/Ebook?style=social)](https://github.com/tuantutanghuynh/Ebook/network/members)
+[![Last Commit](https://img.shields.io/github/last-commit/tuantutanghuynh/Ebook)](https://github.com/tuantutanghuynh/Ebook/commits)
 ![Books](https://img.shields.io/badge/Books-40%2B-blue)
 ![Categories](https://img.shields.io/badge/Categories-11-green)
 ![Formats](https://img.shields.io/badge/Formats-PDF%20%7C%20EPUB-orange)
@@ -30,118 +30,49 @@ No noise. No duplicates. Just great books, neatly organized.
 
 ---
 
-## 📁 Categories & Books
+## 📁 Browse by Category
 
-### 🐍 Python — `Programming/Python/`
-| Book | Author |
-|------|--------|
-| Django for Beginners | William S. Vincent |
-| Django for APIs | William S. Vincent |
-| Django for Professionals | William S. Vincent |
-| Practical Python Backend Programming (Flask & FastAPI) | Tim Peters |
+> All books are **PDF / EPUB** format — click any category to browse and download directly.
 
----
-
-### ☕ Java — `Programming/Java/`
-| Book | Author |
-|------|--------|
-| Learning Java | Loy, Niemeyer, Leuck |
-| Java 17 Backend Development | Elara Drevyn |
-| Java Design Patterns — 23 Gang of Four Patterns | Vaskaran Sarcar |
-| Java: The Ultimate Guide (Beginners to Hacking) | Peter Hoffman |
-| Grokking the Java Developer Interview (200+ Q&A) | Jatin Arora |
-| Web Development Toolkit for Java Developers | Dabhi, Patel, Patel |
-| OOP in Java (Pecínovsky) | Rudolf Pecínovsky |
+| Category | Folder | Topics Covered |
+|----------|--------|----------------|
+| 🐍 Python | [Programming/Python](./Programming/Python) | Django, Flask, FastAPI, Async, REST APIs, Web Development |
+| ☕ Java | [Programming/Java](./Programming/Java) | Core Java, OOP, Design Patterns, Spring Boot, Interview Prep |
+| 🐘 PHP | [Programming/PHP](./Programming/PHP) | Laravel, MySQL, MVC, PHP 8, Composer, Architecture |
+| ⚡ JavaScript | [Programming/JavaScript](./Programming/JavaScript) | React, React Native, GraphQL, Electron, Node.js |
+| 🔗 API & Web | [Programming/API-and-Web-Design](./Programming/API-and-Web-Design) | REST API Design, API Strategy, Postman, Web Architecture |
+| 🤖 AI & ML | [Programming/AI-and-Machine-Learning](./Programming/AI-and-Machine-Learning) | LLMs, Neural Networks, Data Science, Deep Learning, NLP |
+| 📊 Algorithms | [Programming/Algorithms-and-Data-Structures](./Programming/Algorithms-and-Data-Structures) | DSA, Big O Notation, Sorting, Trees, Graphs, Dynamic Programming |
+| 🗄️ Database | [Programming/Database-and-Data-Engineering](./Programming/Database-and-Data-Engineering) | SQL, Data Pipelines, ETL, Data Warehousing, Analytics |
+| ⚙️ Backend | [Programming/Backend-Development](./Programming/Backend-Development) | System Design, Microservices, Performance, Scalability |
+| 🐧 Linux | [Programming/Linux](./Programming/Linux) | CLI, Shell Scripting, DevOps, Cloud Native, Containers |
+| 🇫🇷 French | [Languages/French](./Languages/French) | DALF C1/C2, Grammar, Conversation, Reading, Vocabulary |
+| 🧩 Puzzles | [Reading/Puzzles-and-Brain-Games](./Reading/Puzzles-and-Brain-Games) | Logic Puzzles, Lateral Thinking, Brain Training |
 
 ---
 
-### 🐘 PHP — `Programming/PHP/`
-| Book | Author |
-|------|--------|
-| Laravel Up & Running (2nd Edition) | Matt Stauffer |
-| PHP & MySQL: Novice to Ninja | Butler & Yank |
-| PHP Cookbook | Sklar & Trachtenberg |
-| php[architect] Box of PHP | Mann & Van Johnson |
-| php[architect] Generating Efficient PHP | Mann & Van Johnson |
-| php[architect] PHP is Standing Tall | Mann & Van Johnson |
+## 🔍 What You'll Find Here
 
----
+Whether you're searching for **free programming ebooks PDF**, **Python Django book download**, **Java interview preparation**, or **machine learning ebook GitHub** — this is the repo you were looking for.
 
-### ⚡ JavaScript — `Programming/JavaScript/`
-| Book | Author |
-|------|--------|
-| JavaScript Everywhere (GraphQL, React, React Native, Electron) | Adam Scott |
-| JavaScript Core Concepts | — |
+### 💻 Programming Languages
+- **Python** — from zero to production-ready Django, Flask, and FastAPI applications
+- **Java** — OOP fundamentals, 23 Gang of Four design patterns, Spring Boot, interview Q&A
+- **PHP** — Laravel framework, MySQL integration, modern PHP 8 best practices
+- **JavaScript** — full-stack development with React, GraphQL, React Native, and Electron
 
----
+### 🏗️ Computer Science & Engineering
+- **Algorithms & Data Structures** — CLRS (the classic CS bible), Grokking Algorithms (visual & beginner-friendly)
+- **Backend Development** — system design, code optimization, scalable architecture
+- **Database & Data Engineering** — SQL from scratch, data pipelines, ETL, analytics
+- **Linux** — command line mastery, cloud-native practices, DevOps essentials
 
-### 🔗 API & Web Design — `Programming/API-and-Web-Design/`
-| Book | Author |
-|------|--------|
-| API Design Patterns | JJ Geewax |
-| APIs: A Strategy Guide | Jacobson, Brail, Woods |
-| Mastering Postman (2nd Edition) | Oliver James |
-| Web Systems Design & Online Consumer Behavior | Gao Yuan |
+### 🚀 Emerging Technologies
+- **AI & Machine Learning** — hands-on LLMs, neural networks, data science, NLP with Python
+- **API Design** — REST best practices, OpenAPI, Postman automation, API-first strategy
 
----
-
-### 🤖 AI & Machine Learning — `Programming/AI-and-Machine-Learning/`
-| Book | Author |
-|------|--------|
-| Hands-On Large Language Models | Alammar & Grootendorst |
-| Artificial Intelligence For Dummies | Mueller & Massaron |
-| Machine Learning For Dummies | Mueller & Massaron |
-| Data Science for Dummies (2nd Edition) | Lillian Pierson |
-
----
-
-### 📊 Algorithms & Data Structures — `Programming/Algorithms-and-Data-Structures/`
-| Book | Author |
-|------|--------|
-| Introduction to Algorithms — CLRS (3rd Edition) | Cormen, Leiserson, Rivest, Stein |
-| Grokking Algorithms | Aditya Bhargava |
-
----
-
-### 🗄️ Database & Data Engineering — `Programming/Database-and-Data-Engineering/`
-| Book | Author |
-|------|--------|
-| Getting Started with SQL | Thomas Nield |
-| Fundamentals of Data Engineering | Reis & Housley |
-
----
-
-### ⚙️ Backend Development — `Programming/Backend-Development/`
-| Book | Author |
-|------|--------|
-| Backend Developer in 30 Days | Pedro Marquez |
-| Advanced Backend Code Optimization | Touati & Dupont de Dinechin |
-
----
-
-### 🐧 Linux — `Programming/Linux/`
-| Book | Author |
-|------|--------|
-| Learning Modern Linux: A Handbook for the Cloud Native Practitioner | Michael Hausenblas |
-
----
-
-### 🇫🇷 French Language — `Languages/French/`
-| Book | Level |
-|------|-------|
-| ABC DALF — Niveaux C1/C2 (with audio) | C1/C2 |
-| Communication Progressive du Français (Perfectionnement) | C1/C2 |
-| Communications Progressive du Français | C1/C2 |
-| Communiquer en Français — Actes de Parole | Intermediate+ |
-| Activités pour le Cadre Européen | All levels |
-| Short Stories in French for Beginners | Beginner |
-
----
-
-### 🧩 Puzzles & Brain Games — `Reading/Puzzles-and-Brain-Games/`
-| Book | Author |
-|------|--------|
-| Brain Teasers: 211 Logic Puzzles & Lateral Thinking Games | Livingstone, Thomson, Bragdon |
+### 🌍 Language Learning
+- **French (Français)** — DALF C1/C2 exam prep, grammar exercises, conversation practice, short stories for beginners
 
 ---
 
@@ -176,7 +107,7 @@ Click into any category folder above and download what you need directly from Gi
 
 **Option 2 — Clone the full collection:**
 ```bash
-git clone https://github.com/tuantutanghuynh/dev-ebooks-collection.git
+git clone https://github.com/tuantutanghuynh/Ebook.git
 ```
 
 **Option 3 — Download a specific folder** using [DownGit](https://minhaskamal.github.io/DownGit) or the GitHub UI.
